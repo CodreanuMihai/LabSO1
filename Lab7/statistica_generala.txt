@@ -1,0 +1,1 @@
+/home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/Lab7/dirTest/fisier.txt regular_file
