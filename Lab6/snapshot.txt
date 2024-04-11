@@ -1,0 +1,855 @@
+Nume: config
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/config
+Marime: 264 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: HEAD
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/logs/HEAD
+Marime: 2278 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:05:11 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: Lab7
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/logs/refs/heads/Lab7
+Marime: 617 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:02:07 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: main
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/logs/refs/heads/main
+Marime: 185 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: Lab6
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/logs/refs/heads/Lab6
+Marime: 310 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:17:30 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: Lab7
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/logs/refs/remotes/origin/Lab7
+Marime: 432 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:02:52 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: Lab6
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/logs/refs/remotes/origin/Lab6
+Marime: 144 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:17:53 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: HEAD
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/logs/refs/remotes/origin/HEAD
+Marime: 185 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: index
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/index
+Marime: 326 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:05:11 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: 7bc832ad35b289baa2bd08a3502f362ca53967
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/24/7bc832ad35b289baa2bd08a3502f362ca53967
+Marime: 45 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:20:20 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 361cef4c555cfb01a44fda63c49dbcb7247a87
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/3e/361cef4c555cfb01a44fda63c49dbcb7247a87
+Marime: 231 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:18:38 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 8ad04df4f3fbfd5613dc7b234f0c1f4133d467
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/3e/8ad04df4f3fbfd5613dc7b234f0c1f4133d467
+Marime: 41414 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:17:14 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 8ab7eb62899dd2596e90d13ffdf3f55529fbe6
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/d5/8ab7eb62899dd2596e90d13ffdf3f55529fbe6
+Marime: 4563 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:01:46 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 9e1a6566ac940f99be5c0428438cbf677b0511
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/d5/9e1a6566ac940f99be5c0428438cbf677b0511
+Marime: 112 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:17:30 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 1078dae07db5ec1a658be4f648a1c77587c55f
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/6b/1078dae07db5ec1a658be4f648a1c77587c55f
+Marime: 138 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:01:46 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 7a3beaf75de38ad13ba14ba77c7b1eeca39d21
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/0f/7a3beaf75de38ad13ba14ba77c7b1eeca39d21
+Marime: 55 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:18:50 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 2ad742641ece9fa621f527dab1cd69ce11be2b
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/fc/2ad742641ece9fa621f527dab1cd69ce11be2b
+Marime: 2348 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:01:46 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 8ad769ce2c3314db38fc1546e43260d9ac350f
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/04/8ad769ce2c3314db38fc1546e43260d9ac350f
+Marime: 52 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:02:07 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 6af8d43c64755d00503563939bf010476e8cfe
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/b4/6af8d43c64755d00503563939bf010476e8cfe
+Marime: 196 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:02:07 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: c08831a77058a087d5b5516999cb853a2d0599
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/3c/c08831a77058a087d5b5516999cb853a2d0599
+Marime: 70 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:18:50 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 585d43fe1b98779af873b1802307f99053ef26
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/81/585d43fe1b98779af873b1802307f99053ef26
+Marime: 163 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:20:20 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 5046998dac9c67886101f718db9dc19eee1c11
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/f2/5046998dac9c67886101f718db9dc19eee1c11
+Marime: 145 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:02:07 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: dacf90b2b3efdaefe3080ab768e1b4cb402e39
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/32/dacf90b2b3efdaefe3080ab768e1b4cb402e39
+Marime: 145 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:01:46 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 52538bfd9f236a58ed85387718028a1933cd52
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/07/52538bfd9f236a58ed85387718028a1933cd52
+Marime: 97 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:18:38 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: b6e1cacdc129dfb545101c797362b885e08889
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/fd/b6e1cacdc129dfb545101c797362b885e08889
+Marime: 4385 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:17:14 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: d45ca5fffc8d8cfa035f6488d97deadc199d4b
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/4e/d45ca5fffc8d8cfa035f6488d97deadc199d4b
+Marime: 245 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:01:46 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 9fa9cf22cd0b89bc3fe21df4bd75ce294a7a72
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/8c/9fa9cf22cd0b89bc3fe21df4bd75ce294a7a72
+Marime: 155 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:18:50 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 86a9fb99462ccd6a3d93c9ac614f75447c8628
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/6c/86a9fb99462ccd6a3d93c9ac614f75447c8628
+Marime: 46 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:17:30 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 5a57bfce98837f432d4fa4e5f84bc35c868cc4
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/21/5a57bfce98837f432d4fa4e5f84bc35c868cc4
+Marime: 1560 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:17:14 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 57887cfda927f2319a35092af4b6b6b60c285d
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/a9/57887cfda927f2319a35092af4b6b6b60c285d
+Marime: 119 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:02:07 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: fd9f805dd077ee2deb95ec9b7a799823e17885
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/d4/fd9f805dd077ee2deb95ec9b7a799823e17885
+Marime: 1679 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:18:38 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: a3bcc4c73c9c49fce0a1e48aa4b2f4deb1a0d0
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/e1/a3bcc4c73c9c49fce0a1e48aa4b2f4deb1a0d0
+Marime: 160 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:17:30 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: b0f98afe9d1cb4eeee619460096141fbf4ffc4
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/e1/b0f98afe9d1cb4eeee619460096141fbf4ffc4
+Marime: 159 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:02:07 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: f75907f1a62523305df05a8f4ce25792beb3cf
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/e0/f75907f1a62523305df05a8f4ce25792beb3cf
+Marime: 2069 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:01:46 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: pack-244449ff010adc5c858d9ea21186a5aff8f5c176.pack
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/pack/pack-244449ff010adc5c858d9ea21186a5aff8f5c176.pack
+Marime: 6904 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: pack-244449ff010adc5c858d9ea21186a5aff8f5c176.idx
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/pack/pack-244449ff010adc5c858d9ea21186a5aff8f5c176.idx
+Marime: 1492 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: dfaed98452b21b737ca9cb38e1dd5c83050aea
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/28/dfaed98452b21b737ca9cb38e1dd5c83050aea
+Marime: 1976 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:01:46 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: e04e1bc33bd7224ef3d7455ad3d39f6348b62b
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/05/e04e1bc33bd7224ef3d7455ad3d39f6348b62b
+Marime: 2204 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:01:46 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: ee9180f33c167c940e617e28046f26c2d20c35
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/de/ee9180f33c167c940e617e28046f26c2d20c35
+Marime: 4627 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:18:38 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 2c578fb5a3202a04e5e322c686b646b6a42850
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/fe/2c578fb5a3202a04e5e322c686b646b6a42850
+Marime: 88 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:01:46 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 42a6167b27831c824b0f4d2d141f5e5e110a79
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/3d/42a6167b27831c824b0f4d2d141f5e5e110a79
+Marime: 194 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:18:50 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: a51e045aad179744f3babbe98e6e53749f9c04
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/46/a51e045aad179744f3babbe98e6e53749f9c04
+Marime: 46 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:02:07 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: 094a552cc49e88ad0389be628d5d74b634c07f
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/objects/dc/094a552cc49e88ad0389be628d5d74b634c07f
+Marime: 1792 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:18:38 2024
+Drepturi asupra fisierului: r--r--r--
+
+
+Nume: packed-refs
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/packed-refs
+Marime: 112 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: description
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/description
+Marime: 73 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: HEAD
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/HEAD
+Marime: 21 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:05:11 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: Lab7
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/refs/heads/Lab7
+Marime: 41 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:02:07 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: main
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/refs/heads/main
+Marime: 41 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: Lab6
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/refs/heads/Lab6
+Marime: 41 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:17:30 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: Lab7
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/refs/remotes/origin/Lab7
+Marime: 41 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:02:52 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: Lab6
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/refs/remotes/origin/Lab6
+Marime: 41 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:17:53 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: HEAD
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/refs/remotes/origin/HEAD
+Marime: 30 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: COMMIT_EDITMSG
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/COMMIT_EDITMSG
+Marime: 15 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:02:07 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: exclude
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/info/exclude
+Marime: 240 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: commit-msg.sample
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/hooks/commit-msg.sample
+Marime: 896 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: pre-rebase.sample
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/hooks/pre-rebase.sample
+Marime: 4898 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: pre-commit.sample
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/hooks/pre-commit.sample
+Marime: 1643 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: pre-push.sample
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/hooks/pre-push.sample
+Marime: 1374 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: applypatch-msg.sample
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/hooks/applypatch-msg.sample
+Marime: 478 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: pre-merge-commit.sample
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/hooks/pre-merge-commit.sample
+Marime: 416 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: push-to-checkout.sample
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/hooks/push-to-checkout.sample
+Marime: 2783 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: fsmonitor-watchman.sample
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/hooks/fsmonitor-watchman.sample
+Marime: 4726 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: post-update.sample
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/hooks/post-update.sample
+Marime: 189 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: update.sample
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/hooks/update.sample
+Marime: 3650 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: pre-receive.sample
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/hooks/pre-receive.sample
+Marime: 544 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: pre-applypatch.sample
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/hooks/pre-applypatch.sample
+Marime: 424 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: prepare-commit-msg.sample
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/.git/hooks/prepare-commit-msg.sample
+Marime: 1492 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr  8 00:16:35 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: snapshot.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/Lab6/snapshot.txt
+Marime: 20525 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:14:31 2024
+Drepturi asupra fisierului: rwxr--r--
+
+
+Nume: Lab6.c
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/Lab6/Lab6.c
+Marime: 6292 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:12:17 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: p
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/Lab6/p
+Marime: 16784 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Apr 11 22:12:20 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: client1.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab4Tema/sursa/client1.txt
+Marime: 264 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 15:16:52 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: client3.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab4Tema/sursa/client3.txt
+Marime: 261 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Mar 21 21:28:27 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: client2.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab4Tema/sursa/client2.txt
+Marime: 259 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Thu Mar 21 22:24:01 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: statistica.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab4Tema/destinatie/statistica.txt
+Marime: 160 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 15:49:49 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: Lab5Tema.sh
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab4Tema/Lab5Tema.sh
+Marime: 2260 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 15:54:05 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: auth.sh
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Lab5.1/Laborator-252be4d7158aa55b689303346c7d278fe97e94ae/Exercitiul/auth.sh
+Marime: 502 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 12:53:23 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: send_message.sh
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Lab5.1/Laborator-252be4d7158aa55b689303346c7d278fe97e94ae/Exercitiul/send_message.sh
+Marime: 540 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 12:53:23 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: Exercitiul.md
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Lab5.1/Laborator-252be4d7158aa55b689303346c7d278fe97e94ae/Exercitiul/Exercitiul.md
+Marime: 2053 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 12:53:23 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: chatGenerator.sh
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Lab5.1/Laborator-252be4d7158aa55b689303346c7d278fe97e94ae/Exercitiul/chatGenerator.sh
+Marime: 176 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 12:53:23 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: display_messages.sh
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Lab5.1/Laborator-252be4d7158aa55b689303346c7d278fe97e94ae/Exercitiul/display_messages.sh
+Marime: 1560 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 17:33:12 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: chatId.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Lab5.1/Laborator-252be4d7158aa55b689303346c7d278fe97e94ae/Exercitiul/chatId.txt
+Marime: 6 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 17:37:42 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: userId.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Lab5.1/Laborator-252be4d7158aa55b689303346c7d278fe97e94ae/Exercitiul/userId.txt
+Marime: 37 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 17:37:04 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: set_chat_id.sh
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Lab5.1/Laborator-252be4d7158aa55b689303346c7d278fe97e94ae/Exercitiul/set_chat_id.sh
+Marime: 104 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 12:53:23 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: config.sh
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Lab5.1/Laborator-252be4d7158aa55b689303346c7d278fe97e94ae/Exercitiul/config.sh
+Marime: 549 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 12:53:23 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: README.md
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Lab5.1/Laborator-252be4d7158aa55b689303346c7d278fe97e94ae/README.md
+Marime: 699 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 12:53:23 2024
+Drepturi asupra fisierului: rw-rw-r--
+
+
+Nume: auth.sh
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Exercitiul/auth.sh
+Marime: 504 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 16:33:54 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: send_message.sh
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Exercitiul/send_message.sh
+Marime: 578 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 16:46:54 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: Exercitiul.md
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Exercitiul/Exercitiul.md
+Marime: 2053 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 12:53:23 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: chatGenerator.sh
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Exercitiul/chatGenerator.sh
+Marime: 176 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 12:53:23 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: display_messages.sh
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Exercitiul/display_messages.sh
+Marime: 1582 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 17:25:36 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: chatId.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Exercitiul/chatId.txt
+Marime: 4 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 16:39:44 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: userId.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Exercitiul/userId.txt
+Marime: 37 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 16:33:58 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: set_chat_id.sh
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Exercitiul/set_chat_id.sh
+Marime: 104 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 12:53:23 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: config.sh
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/Exercitiul/config.sh
+Marime: 549 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 12:53:23 2024
+Drepturi asupra fisierului: rwxr-xr-x
+
+
+Nume: README.md
+Nume extins: /home/mihai/Desktop/Eu/SO1/Lab5/Laborator-Lab_5/README.md
+Marime: 699 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Mar 22 12:53:23 2024
+Drepturi asupra fisierului: rw-rw-r--
+
+

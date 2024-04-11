@@ -79,6 +79,7 @@ void info_fis(const char *numeFis, int f) {
 
     //printam detalii despre fisier:
     dimensiune += snprintf(buffer + dimensiune, sizeof(buffer) - dimensiune, "Nume: %s\n", basename((char *)numeFis)); //-> pentru nume restrans!
+    // printeaza sizeof(buffer) - dimensiune elemente in buffer, incepand de la pozitia dimensiune din buffer!
     dimensiune += snprintf(buffer + dimensiune, sizeof(buffer) - dimensiune, "Nume extins: %s\n", numeFis); //-> pentru nume complet cu tot cu directoarele precedente!
     dimensiune += snprintf(buffer + dimensiune, sizeof(buffer) - dimensiune, "Marime: %ld bytes\n", st.st_size);
 
@@ -155,7 +156,13 @@ int main(int argc, char **argv)
         exit(-1);
     }
 
-    int f = open("file.txt", O_WRONLY | O_CREAT, 0744);
+    int f = open("snapshot.txt", O_WRONLY | O_CREAT | O_TRUNC, 0744);
+    // 0744 inseamna:
+    // 0 -> fisier obisnuit
+    // 744 -> permisiunile
+    //O_WRONLY - write only
+    //O_CREAT - creeaza fisierul daca nu exista
+    //O_TRUNC - sterge continutul fisierului daca el exista deja
     parcurgereDir(argv[1], f);
     close(f);
     return 0;
