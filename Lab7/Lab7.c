@@ -4,19 +4,18 @@
 #include <sys/stat.h>
 #include <unistd.h>
 #include <string.h>
-#include <fcntl.h> // pt functiile sistem open, close, read
-#include <time.h>   // pt ctime()
+#include <fcntl.h> // pt functiile sistem open(), close(), read() si write()
 #include <libgen.h> // pt basename()
 
 typedef struct
 {
-    int lmica[25];
-    int lmare[25];
+    int lmica[26]; // sunt 26 de litere in alfabetul englez!
+    int lmare[26];
 }Hist;
 
 void getLetters(char *fisier, Hist *litere) 
 {
-    int fd = open(fisier, O_RDONLY, 0);
+    int fd = open(fisier, O_RDONLY, 0); // deschidem fisierul cu open!
     if (fd == -1) //verificare deschidere fisier
     {
         printf("Eroare la fisier-ul %s!", fisier);
@@ -25,7 +24,9 @@ void getLetters(char *fisier, Hist *litere)
 
     char buffer;
     int citit;
-    while ((citit = read(fd, &buffer, sizeof(char))) > 0) {
+    while ((citit = read(fd, &buffer, sizeof(char))) > 0) //citim caracter cu caracter din fisier
+    {
+        //repartizam litera la locul ei
         if (buffer >= 'A' && buffer <= 'Z') {
             litere->lmare[buffer - 'A']++;
         } else if (buffer >= 'a' && buffer <= 'z') {
@@ -38,10 +39,13 @@ void getLetters(char *fisier, Hist *litere)
 
 void scrieHistograma(Hist litere, char *fisHist) 
 {
-    int his = open(fisHist, O_WRONLY | O_CREAT, 0744);
+    int his = open(fisHist, O_WRONLY | O_CREAT | O_TRUNC, 0744); // pentru o versiune originala de fiecare data!
     // 0744 inseamna:
     // 0 -> fisier obisnuit
     // 744 -> permisiunile
+    //O_WRONLY - write only
+    //O_CREAT - creeaza fisierul daca nu exista
+    //O_TRUNC - sterge continutul fisierului daca el exista deja
     if (his == -1) //verificare deschidere fisier 
     {
         printf("Eroare la fisier-ul %s!\n", fisHist);
@@ -59,9 +63,6 @@ void scrieHistograma(Hist litere, char *fisHist)
         dim += snprintf(buffer + dim, sizeof(buffer) - dim, "%c : %d\n", 'A' + i, litere.lmare[i]);
 
     dim += snprintf(buffer + dim, sizeof(buffer) - dim, "\n");
-
-    //printf("Dimensiune buffer: %d\n", dim);
-    //printf("Buffer: %s\n", buffer);
 
     if (write(his, buffer, dim) == -1) 
     {
@@ -133,12 +134,12 @@ void parcurgereDir(char *numeDir, Hist *litere, int statGen)
             char path[1024]; 
             sprintf(path, "%s/%s", numeDir, entry->d_name); // calea catre directorul/ fisierul curent
 
-            if (entry->d_type == DT_REG && strstr(path, ".txt")!= NULL)  // daca e fisier afiseaza-l!
+            if (entry->d_type == DT_REG && strstr(path, ".txt")!= NULL)  // daca e fisier afiseaza-l si fa-i histograma!
             {
                 getLetters(path, litere);
                 scrieStat(statGen, path, entry);
             }
-            else if (entry->d_type == DT_DIR)  // daca e director reapelam functia!
+            else if (entry->d_type == DT_DIR)  // daca e director reapelam functia, dar inainte scriem ca e director!
             {
                 char buffer[1050];
                 int dim = snprintf(buffer, sizeof(buffer), "%s directory\n", path);
@@ -168,14 +169,14 @@ int main(int argc, char **argv)
         exit(-1);
     }
 
-    int statGen = open(argv[3], O_WRONLY | O_CREAT, 0744);
+    int statGen = open(argv[3], O_WRONLY | O_CREAT | O_TRUNC, 0744);
     if (statGen == -1) //verificare deschidere fisier
     {
         printf("Eroare la fisierului de statistica generala!\n");
         exit(-1);
     }
 
-    Hist litere = {0};
+    Hist litere = {0}; // histograma noastra
     parcurgereDir(argv[1], &litere, statGen);
     close(statGen);
 

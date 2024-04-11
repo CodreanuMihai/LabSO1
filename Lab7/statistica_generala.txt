@@ -1,1 +1,6 @@
+/home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/Lab7/dirTest/file1.txt regular_file
 /home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/Lab7/dirTest/fisier.txt regular_file
+/home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/Lab7/dirTest/foldernou directory
+/home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/Lab7/dirTest/foldernou/file3.txt regular_file
+/home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/Lab7/dirTest/foldernou/foldernou1 directory
+/home/mihai/Desktop/Eu/SO1/Lab6-StartProiect/LabSO1/Lab7/dirTest/file2.txt regular_file
