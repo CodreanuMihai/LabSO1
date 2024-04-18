@@ -1,0 +1,5 @@
+/home/mihai/Desktop/Eu/SO1/GitSO1/LabSO1/saptamana3/dirTest2:
+total 12K
+1188520 4.0K -rw-r--r-- 1 mihai mihai  98 Apr 18 20:34 file1dir2.txt
+1188521 4.0K -rw-r--r-- 1 mihai mihai 158 Apr 18 20:34 file2dir2.txt
+1188524 4.0K -rw-r--r-- 1 mihai mihai 105 Apr 18 20:34 file3dir2.txt

@@ -1,0 +1,3 @@
+/home/mihai/Desktop/Eu/SO1/GitSO1/LabSO1/saptamana3/dirTest1/dirTest3:
+total 4.0K
+1188515 4.0K -rw-r--r-- 1 mihai mihai 33 Apr 18 20:34 filedir3.txt
