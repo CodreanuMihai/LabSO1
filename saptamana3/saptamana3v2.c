@@ -11,20 +11,7 @@
 
 
 /*
-Saptamana 2 (5.4.2023 - 11.4.2023) 
-1. Se va actualiza functionalitatea programului în așa fel încât acesta să primească un număr nespecificat de argumente 
-în linia de comandă, dar nu mai mult de 10, cu mențiunea ca niciun argument nu se va repeta. Programul va procesa numai 
-directoarele, alte tipuri de argumente vor fi ignorate. Logica de captură a metadatelor se va aplica acum tuturor 
-argumentelor primite valide, ceea ce înseamnă că programul va actualiza snapshoturile pentru toate directoarele specificate 
-de utilizator. 
-2. În cazul în care se vor înregistra modificări la nivelul directoarelor, utilizatorul va putea să compare snapshot-ul 
-anterior al directorului specificat cu cel curent. În cazul în care există diferențe între cele două snapshot-uri, snapshot-ul 
-vechi va fi actualizat cu noile informații din snapshot-ul curent. 
-3. Funcționalitatea codului va fi extinsă astfel încât programul să primească un argument suplimentar, care va reprezenta 
-directorul de ieșire în care vor fi stocate toate snapshot-urile intrărilor din directoarele specificate în linia de comandă. 
-Acest director de ieșire va fi specificat folosind opțiunea `-o`. De exemplu, comanda de rulare a programului va fi: 
-`./program_exe -o output input1 input2 ...`. 
-
+Saptamana 3
 */
 
 #define ARGS_MAX 10 // numarul de argumente maxime
