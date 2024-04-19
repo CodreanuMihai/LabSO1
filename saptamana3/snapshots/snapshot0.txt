@@ -1,9 +1,36 @@
-/home/mihai/Desktop/Eu/SO1/GitSO1/LabSO1/saptamana3/dirTest1:
-total 12K
-1188514 4.0K drwxr-xr-x 2 mihai mihai 4.0K Apr 18 20:34 dirTest3
-1188516 4.0K -rw-r--r-- 1 mihai mihai   76 Apr 18 20:34 file2dir1.txt
-1188517 4.0K -rw-r--r-- 1 mihai mihai   62 Apr 18 20:34 filedir1.txt
+Nume: file2dir1.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/GitSO1/LabSO1/saptamana3/dirTest1/file2dir1.txt
+Marime: 76 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Apr 19 10:15:46 2024
+Drepturi asupra fisierului: rw-r--r--
 
-/home/mihai/Desktop/Eu/SO1/GitSO1/LabSO1/saptamana3/dirTest1/dirTest3:
-total 4.0K
-1188515 4.0K -rw-r--r-- 1 mihai mihai 33 Apr 18 20:34 filedir3.txt
+
+Nume: filedir3.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/GitSO1/LabSO1/saptamana3/dirTest1/dirTest3/filedir3.txt
+Marime: 33 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Apr 19 10:15:46 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: file1dir2.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/GitSO1/LabSO1/saptamana3/dirTest1/file1dir2.txt
+Marime: 98 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Apr 19 10:15:46 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
+Nume: filedir1.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/GitSO1/LabSO1/saptamana3/dirTest1/filedir1.txt
+Marime: 62 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Fri Apr 19 10:15:46 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
