@@ -64,13 +64,13 @@ int main(int argc, char **argv)
     if (pid2 == 0) // Proces fiu pentru grep
     {
         close(fisDes[1]);
-        dup2(fisDes[1], 0);
-        close(fisDes[1]);
+        dup2(fisDes[0], 0);
+        close(fisDes[0]);
 
         close(fisDes2[0]);
         dup2(fisDes2[1], 1);
         close(fisDes2[1]);
-        execlp("grep", "grep", argv[2], argv[1], NULL);
+        execlp("grep", "grep", argv[2], NULL);
         exit(-1);
     }
 
