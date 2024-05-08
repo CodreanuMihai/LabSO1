@@ -1,0 +1,9 @@
+Nume: file1dir4.txt
+Nume extins: /home/mihai/Desktop/Eu/SO1/GitSO1/LabSO1/saptamana5/dirTest4/file1dir4.txt
+Marime: 3659 bytes
+Are legaturi grele(hardlink): Nu
+Are legaturi simbolice: Nu
+Data ultimei modificari: Mon Apr 29 18:33:44 2024
+Drepturi asupra fisierului: rw-r--r--
+
+
