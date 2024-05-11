@@ -3,7 +3,7 @@ Nume extins: /home/mihai/Desktop/Eu/SO1/GitSO1/LabSO1/saptamana5/dirTest1/file2d
 Marime: 76 bytes
 Are legaturi grele(hardlink): Nu
 Are legaturi simbolice: Nu
-Data ultimei modificari: Mon Apr 29 18:33:44 2024
+Data ultimei modificari: Wed May  8 21:21:37 2024
 Drepturi asupra fisierului: rw-r--r--
 
 
@@ -12,7 +12,7 @@ Nume extins: /home/mihai/Desktop/Eu/SO1/GitSO1/LabSO1/saptamana5/dirTest1/dirTes
 Marime: 33 bytes
 Are legaturi grele(hardlink): Nu
 Are legaturi simbolice: Nu
-Data ultimei modificari: Mon Apr 29 18:33:44 2024
+Data ultimei modificari: Wed May  8 21:21:37 2024
 Drepturi asupra fisierului: rw-r--r--
 
 
@@ -21,7 +21,7 @@ Nume extins: /home/mihai/Desktop/Eu/SO1/GitSO1/LabSO1/saptamana5/dirTest1/file1d
 Marime: 62 bytes
 Are legaturi grele(hardlink): Nu
 Are legaturi simbolice: Nu
-Data ultimei modificari: Mon Apr 29 18:33:44 2024
+Data ultimei modificari: Wed May  8 21:21:37 2024
 Drepturi asupra fisierului: rw-r--r--
 
 

@@ -188,6 +188,16 @@ void info_fis(const char *numeFis, const int f, const char *dirIzolare)
                 {
                     write(1, buffer, biti_cititi);
                 }
+                else
+                {
+                    //deoarece fisierul e safe, ii vom reda drepturile initiale (vom taia drepturile pe care i le-am dat pt a-l putea verifica)
+                    if (chmod(numeFis, 0000) == -1)
+                    // functia chmod() din <sys/stat.h> functioneaza precum comanda chmod din terminal!
+                    {
+                        printf("Eroare la luarea drepturilor!\n");
+                        exit(-1);
+                    }
+                }
             }
             close(fisDes[0]);
         }
@@ -201,7 +211,7 @@ void info_fis(const char *numeFis, const int f, const char *dirIzolare)
         snprintf(newFile, sizeof(newFile), "%s/%s", dirIzolare, basename((char*)numeFis));
         if (chmod(newFile, 0000) == -1)
         {
-            printf("Eroare la luarea de drepturi!\n");
+            printf("Eroare la luarea drepturilor din directorul de izolare!\n");
             exit(-1);
         }
     }
